@@ -21,7 +21,7 @@ Script performs the following operations:
 	- Ensures dataset availability using download.uci.har.dataset function.
 	- Loads data using get.uci.har.data function.
 	- Calculates avarage values of each variable in data.frame obtained from get.uci.har.data function, grouped by pairs of subject and activity.
-	- Writes results into UCI_HAR_tidy_dataset.csv file in current working directory.
+	- Writes results into UCI_HAR_tidy_dataset.txt file in current working directory.
 	
-Code book for UCI_HAR_tidy_dataset.csv is provided as a separate file in this repository: tidy_dataset_codebook.md
+Code book for UCI_HAR_tidy_dataset.txt is provided as a separate file in this repository: tidy_dataset_codebook.md
 

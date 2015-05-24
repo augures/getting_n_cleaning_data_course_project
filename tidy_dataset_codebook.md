@@ -16,7 +16,8 @@ A short excerpt from this dataset README.md file, giving an overview of the purp
 Tidy dataset structure
 ======================
 
-A tidy dataset is prepared as described in README.md file.
+A tidy dataset is prepared as described in README.md file, and saved as UCI_HAR_tidy_dataset.txt file.
+This is CSV file (extension "txt" is used as course submission form doesn't accept files with extension "csv")
 
 Data from training and test subsets of original dataset are combined together.
 

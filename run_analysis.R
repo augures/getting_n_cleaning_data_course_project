@@ -10,8 +10,8 @@ run.analysis <- function() {
                        sapply(res.names[3:length(res.names)], function(x) paste(x, 'AVG')))
     
     # write results
-    write.table(result, 'UCI_HAR_tidy_dataset.csv', sep=',', row.names=FALSE)
-    message('UCI_HAR_tidy_dataset.csv file is written')
+    write.table(result, 'UCI_HAR_tidy_dataset.txt', sep=',', row.names=FALSE)
+    message('UCI_HAR_tidy_dataset.txt file is written')
     
     result
 }
