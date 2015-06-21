@@ -1,5 +1,7 @@
 This project is an implementation of Course Project for "Getting and Cleaning Data" Corsera course version 14.
 
+NOTE for peer reviewers: this repository was created a month ago, but I didn't have a chance to finish a course that time, so I'm retaking it this month.
+
 All the code is implemented in a single file run_analysis.R.
 It requires dplyr package, which is not installed as a part of script execution.
 Script is executed on load.
